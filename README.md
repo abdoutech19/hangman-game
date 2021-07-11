@@ -44,7 +44,7 @@ The game is responsive to different window sizes, built with HTML, CSS3, and van
 - [GSAP](https://greensock.com/gsap/)
 
 ## Demo
-Here is a live working demo: [Hangman](www.hangman-js.epizy.com  "Hangman Game").
+Here is a live working demo: [Hangman](www.hangman-js.epizy.com).
 
 ## Usage
 You are able to start the game locally in your machine by typing the following commands in the command line:
